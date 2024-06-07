@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921064369974",
+    "project_id": "ugrp-884ff",
+    "storage_bucket": "ugrp-884ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921064369974:android:2c1cd5f191292441e2cd97",
+        "android_client_info": {
+          "package_name": "com.donghan21.ugrp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921064369974-vjap9j5snvjj17cjcr2scsov7s8fqh7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWb9iUITcet14zFPEnLJOvKXleHuauZz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921064369974-vjap9j5snvjj17cjcr2scsov7s8fqh7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
