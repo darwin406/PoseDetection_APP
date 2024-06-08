@@ -1,4 +1,4 @@
-# 2022 ugrp At POSTECH
+# 2022 ugrp at POSTECH
 
 A new Flutter project.
 
