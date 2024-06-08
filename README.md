@@ -10,4 +10,4 @@ Unfortunately, it's in Korean.
 
 # Code
 You can view the code in the master branch. 
-For implement. We using Flutter. 
+For implement, We using Flutter. 
