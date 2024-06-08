@@ -1,6 +1,6 @@
 # 2022 ugrp at POSTECH
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
